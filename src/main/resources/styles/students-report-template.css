@@ -1,0 +1,19 @@
+table{
+	border:0.1pt solid black;
+	border-collapse:collapse;
+}
+
+th,td{
+	padding:6px;
+	border:0.1pt solid black;
+	text-align:center;
+}
+th{
+	background-color:gray;
+	color:white;
+	font-family:Eras Medium ITC;
+}
+td{
+	background-color:#edeadf;
+	font-family:Eras Light ITC;
+}
